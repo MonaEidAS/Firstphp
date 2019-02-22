@@ -1,4 +1,4 @@
-//Import the Runtime Pakage
+//Import Runtime Pakage
 import java.lang.Runtime;
 
 public class RuntimeT{
