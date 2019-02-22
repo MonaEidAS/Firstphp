@@ -1,0 +1,90 @@
+section{
+ background-color:#F5F5F5;
+
+}
+
+.intro{
+   text-align: center;
+   font-family: Georgia, serif;
+   position: relative;
+   top: 40px;
+}
+
+#Front {
+  position: relative;
+  left: 250px;
+  top: 80px;
+  
+}
+
+#Frontt {
+  position: relative;
+  left: 315px;
+  top: 80px;
+
+}
+
+#Back {
+  position: relative;
+  left: 815px;
+  bottom: 203px;
+  
+}
+
+#Backk {
+  position: relative;
+  left: 908px;
+  bottom: 223px;
+}
+
+
+pre {
+ text-align: center;
+ font-size: 16px;
+ position: relative;
+ top: 60px;
+}
+
+#headerr{
+position: relative;
+  left: 250px;
+}
+
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  position: relative;
+  
+  top: 100px;
+  background-color:#F5F5F5
+}
+
+td {
+  text-align: left;
+  padding: 8px;
+}
+tr:nth-child(even) {
+	background-color: #ffff;
+}
+
+h3{
+ 
+   font-family: Georgia, serif;
+   position: relative;
+   top: 40px;
+
+}
+
+li{
+
+  background-color:#F5F5F5;
+  position: relative;
+  top: 40px;
+}
+
+h5{
+
+   text-align: center;
+}
+
